@@ -1,0 +1,11 @@
+export const GET_PERSON = 'GET_PERSON';
+export const PERSON_LOADING = 'PERSON_LOADING';
+export const SET_CURRENT_PERSON = 'SET_CURRENT_PERSON';
+export const CLEAR_CURRENT_PERSON = 'CLEAR_CURRENT_PERSON';
+
+export const GET_PEOPLE = 'GET_PEOPLE';
+export const PEOPLE_LOADING = 'PEOPLE_LOADING';
+
+export const GET_ERRORS = 'GET_ERRORS';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
+
